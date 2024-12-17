@@ -24,7 +24,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeozinhoGuimaraes1988&layout=compact)
 
 ### 🚧 Projetos em Destaque  
-- [**Sistema de Gerenciamento de Férias**]([https://github.com/seu-repo](https://github.com/LeozinhoGuimaraes1988/sistema-afastamentos): Sistema para gestão de férias com React e Firebase.  
+## Sistema de Gerenciamento de Férias: ([https://github.com/seu-repo](https://github.com/LeozinhoGuimaraes1988/sistema-afastamentos): Sistema para gestão de férias com React e Firebase.  
 
 
 ## Entre em contato
@@ -35,7 +35,7 @@
 
 **Vamos trabalhar juntos?** Sinta-se à vontade para entrar em contato!
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeozinhoGuimaraes1988&theme=dracula)
+
 
 ---
 
