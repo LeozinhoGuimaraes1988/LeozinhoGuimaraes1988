@@ -2,7 +2,7 @@
 
 
 ## Me encontre nas redes sociais
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-guimar%C3%A3es-dev/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-guimar%C3%A3es-dev/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leoguimaraes.oliveira/)
 
 ![Leonardo Guimarães GitHub stats](https://github-readme-stats.vercel.app/api?username=LeozinhoGuimaraes1988&show_icons=true&theme=dracula)
@@ -23,21 +23,16 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeozinhoGuimaraes1988&layout=compact)
 
-### 🚧 Projetos em Destaque  
-## Sistema de Gerenciamento de Férias: ([https://github.com/seu-repo](https://github.com/LeozinhoGuimaraes1988/sistema-afastamentos): Sistema para gestão de férias com React e Firebase.  
+## 🚧 Projetos em Destaque  
+### Sistema de Gerenciamento de Férias: ([https://github.com/seu-repo](https://github.com/LeozinhoGuimaraes1988/sistema-afastamentos): Sistema para gestão de férias com React e Firebase.  
 
 
 ## Entre em contato
-
+**Vamos trabalhar juntos?** Sinta-se à vontade para entrar em contato!
 [![WhatApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]() (61) 99666-8080 <br/>
 [![WhatApp](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]() leonardo.cientistadedados@gmail.com
 📧 **Email:** [leonardo.cientistadedados@gmail.com](mailto:leonardo.cientistadedados@gmail.com)  
 
-**Vamos trabalhar juntos?** Sinta-se à vontade para entrar em contato!
-
-
-
----
 
 
 
