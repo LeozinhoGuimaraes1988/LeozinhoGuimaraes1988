@@ -19,8 +19,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeozinhoGuimaraes1988&layout=compact)
 
-<br/>
-Entrando no mundo do Desenvolvimento e gostando muito de Front-End.
+
 
 ## Entre em contato
 
