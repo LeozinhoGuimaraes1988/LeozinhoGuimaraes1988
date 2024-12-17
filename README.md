@@ -33,12 +33,6 @@
 
 **Vamos trabalhar juntos?** Sinta-se à vontade para entrar em contato!
 
----
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LeozinhoGuimaraes1988&theme=dracula)
-
----
-
 ### 🚧 Projetos em Destaque  
 - [**Sistema de Gerenciamento de Férias**](https://github.com/LeozinhoGuimaraes1988/sistema-afastamentos): Sistema para gestão de férias com React e Firebase.
 
