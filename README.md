@@ -33,6 +33,8 @@
 
 **Vamos trabalhar juntos?** Sinta-se à vontade para entrar em contato!
 
+---
+
 ### 🚧 Projetos em Destaque  
 - [**Sistema de Gerenciamento de Férias**](https://github.com/LeozinhoGuimaraes1988/sistema-afastamentos): Sistema para gestão de férias com React e Firebase.
 
