@@ -23,8 +23,6 @@
 Entrando no mundo do Desenvolvimento e gostando muito de Front-End.
 
 ## Entre em contato
-Procuro por oportunidades na área de Desenvolvimento Front-End.
-
 
 [![WhatApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]() (61) 99666-8080 <br/>
 [![WhatApp](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]() leonardo.cientistadedados@gmail.com
